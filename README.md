@@ -100,7 +100,7 @@
 
 ## Connect With Me :
 
-<a href="https://www.linkedin.com/in/arfindwioctavianto/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="Linkedin"/></a>
+<a href="https://www.linkedin.com/in/arfindwioctavianto" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="Linkedin"/></a>
 
 <h1 align="center">Github Stats</h1>
 <p align="center">
