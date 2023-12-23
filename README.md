@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=55FFE1&background=FFFFFF00&width=435&lines=Hi!+I'M+ARFIN+DWI+OCTAVIANTO"></h1>
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arfindwio&theme=tokyonight" alt="arfindwio"  /></a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arfindwio&label=Profile%20views&color=0e75b6&style=flat" alt="arfindwio" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arfindwio&label=Profile%20views&color=0e75b6&style=plastic" alt="arfindwio" /> </p>
 
 ## Languages and Tools
 
