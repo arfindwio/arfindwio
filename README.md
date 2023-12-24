@@ -120,7 +120,7 @@
 <img align="right" width="50%"  src="https://github-readme-stats.vercel.app/api?username=arfindwio&show_icons=true&theme=tokyonight&layout=compact" />
 </p>
 
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 <p align="center">
   <img width="88%" src="https://github-readme-streak-stats.herokuapp.com/?user=arfindwio&theme=tokyonight" />
