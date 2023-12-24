@@ -1,7 +1,22 @@
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=55FFE1&background=FFFFFF00&width=435&lines=Hi!+I'M+ARFIN+DWI+OCTAVIANTO"></h1>
-<br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arfindwio&theme=tokyonight" alt="arfindwio"  /></a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arfindwio&label=Profile%20views&color=0e75b6&style=plastic" alt="arfindwio" /> </p>
+
+### Thanks for Visiting my GitHub Profile!
+
+---
+
+<p align="center">
+<img src="https://github.com/arfindwio/arfindwio/blob/output/github-contribution-grid-snake.svg">
+</p>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arfindwio&theme=tokyonight" alt="arfindwio"  /></a>
+</p>
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=arfindwio&label=Profile%20Views&color=6&icon=0&pretty=true" />
+  </a>
+</p>
 
 ## Languages and Tools
 
@@ -100,15 +115,15 @@
 
 ## Connect With Me :
 
-<p><a href="https://www.linkedin.com/in/arfindwioctavianto" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="Linkedin"/></a></p>
+<a href="https://www.linkedin.com/in/arfindwioctavianto" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="Linkedin"/></a>
 
 <h1 align="center">Github Stats</h1>
 <p align="center">
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=arfindwio&show_icons=true&layout=compact&theme=tokyonight" alt="arfindwio" />
-<img align="right" width="50%"  src="https://github-readme-stats.vercel.app/api?username=arfindwio&show_icons=true&theme=tokyonight&layout=compact" />
+<img align="right" width="40%"  src="https://github-readme-stats.vercel.app/api?username=arfindwio&show_icons=true&theme=tokyonight&layout=compact" />
 </p>
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 <p align="center">
   <img width="88%" src="https://github-readme-streak-stats.herokuapp.com/?user=arfindwio&theme=tokyonight" />
