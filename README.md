@@ -1,11 +1,8 @@
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=55FFE1&background=FFFFFF00&width=435&lines=Hi!+I'M+ARFIN+DWI+OCTAVIANTO"></h1>
 
-### Thanks for Visiting my GitHub Profile!
-
----
-
+<h1 align="center">Thanks for Visiting my GitHub Profile!</h1>
 <p align="center">
-<img src="https://github.com/arfindwio/arfindwio/blob/output/github-contribution-grid-snake.svg">
+  <img src="https://github.com/arfindwio/arfindwio/blob/output/github-contribution-grid-snake.svg">
 </p>
 
 <p align="left">
