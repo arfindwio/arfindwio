@@ -10,9 +10,12 @@
 </p>
 
 <p align="center">
+  <!-- - 
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=arfindwio&label=Profile%20Views&color=6&icon=0&pretty=true" />
   </a>
+  -->
+  <img src="https://komarev.com/ghpvc/?username=arfindwio&label=Profile%20views&color=0e75b6&style=plastic" alt="arfindwio" />
 </p>
 
 ## Languages and Tools
