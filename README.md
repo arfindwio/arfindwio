@@ -125,4 +125,6 @@
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arfindwio&theme=tokyonight)](https://git.io/streak-stats)
 </p>
 
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=arfindwio&theme=tokyonight" alt="GitHub Streak" /></a>
+
 ---
