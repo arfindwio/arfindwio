@@ -122,7 +122,7 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 <p align="center">
-  <img width="88%" src="https://github-readme-streak-stats.herokuapp.com/?user=arfindwio&theme=tokyonight" />
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=arfindwio&theme=tokyonight" alt="GitHub Streak" /></a>
 </p>
 
 ---
